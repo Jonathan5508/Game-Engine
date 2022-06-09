@@ -1,0 +1,5 @@
+.gradle
+.idea
+build
+gradlew
+hs_err_pid15840.log
